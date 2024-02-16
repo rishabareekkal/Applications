@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8b3609f830fc7f841938f1cc0ca7f739
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _beatmapAudio: {instanceID: 0}
+  - _beatmapClip: {fileID: 8300000, guid: c41e67d56249b48e99925d0688e56cbb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
