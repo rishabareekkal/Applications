@@ -1,4 +1,3 @@
 # Christmas
-A collection of fun little mini games made using the Pygame library.
-
-
+A fun little Christmas themed game.
+Move Santa's present sack left and right with the arrow keys to catch falling presents.
