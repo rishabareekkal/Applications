@@ -1,5 +1,5 @@
 # Mini-Games
-The Mini Games project with four mini games.
+The Mini Games project with four mini games. (School group project)
 
 The four mini games are:
 - "Asteroid Avoid" where you drag your mouse around to avoid the asteroids.
@@ -7,6 +7,7 @@ The four mini games are:
 - "Camo Clicker" where you click either a red or blue dot to get points.
 - "Asteroid Attack" where you click on asteroids to destroy them.
 
-Complete the games in order to see your completion mark.
+Complete the games in order to see your completion mark.  
+**Project Contributions:** Created the Asteroid Attack game and main menu.
 
 *Best to be played on using a text editor rather than replit in order to see all the beautiful fonts!*
